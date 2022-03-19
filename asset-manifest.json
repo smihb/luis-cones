@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/luis-cones/static/css/main.8a46c9db.css",
-    "main.js": "/luis-cones/static/js/main.a588fdb6.js",
-    "static/media/masterclass.png": "/luis-cones/static/media/masterclass.e16fd4a9702e52272d3b.png",
-    "static/media/acelerador.png": "/luis-cones/static/media/acelerador.3681edc10decf6873c3a.png",
-    "static/media/BANNER.webp": "/luis-cones/static/media/BANNER.4ae41d442a4e1b65ff45.webp",
-    "static/media/testimonio1.webp": "/luis-cones/static/media/testimonio1.384a5d3e1c335aff3966.webp",
-    "static/media/testimonio2.webp": "/luis-cones/static/media/testimonio2.49703b696809188d9192.webp",
-    "static/media/correos.webp": "/luis-cones/static/media/correos.42ba64d1140455115ea4.webp",
-    "index.html": "/luis-cones/index.html",
-    "main.8a46c9db.css.map": "/luis-cones/static/css/main.8a46c9db.css.map",
-    "main.a588fdb6.js.map": "/luis-cones/static/js/main.a588fdb6.js.map"
+    "main.css": "/static/css/main.8a46c9db.css",
+    "main.js": "/static/js/main.be89f958.js",
+    "static/media/BANNER.webp": "/static/media/BANNER.4ae41d442a4e1b65ff45.webp",
+    "static/media/logo300.png": "/static/media/logo300.a78dc244b4fdb4cc66df.png",
+    "static/media/luis.jpeg": "/static/media/luis.02c6cb6d0a584f134419.jpeg",
+    "static/media/logo500.webp": "/static/media/logo500.73e36712f34bd6a421eb.webp",
+    "static/media/testimonio1.webp": "/static/media/testimonio1.384a5d3e1c335aff3966.webp",
+    "static/media/testimonio2.webp": "/static/media/testimonio2.49703b696809188d9192.webp",
+    "static/media/correos.webp": "/static/media/correos.42ba64d1140455115ea4.webp",
+    "index.html": "/index.html",
+    "main.8a46c9db.css.map": "/static/css/main.8a46c9db.css.map",
+    "main.be89f958.js.map": "/static/js/main.be89f958.js.map"
   },
   "entrypoints": [
     "static/css/main.8a46c9db.css",
-    "static/js/main.a588fdb6.js"
+    "static/js/main.be89f958.js"
   ]
 }

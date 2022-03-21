@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6da9984c.css",
-    "main.js": "/static/js/main.eebe6cde.js",
+    "main.css": "/static/css/main.9e2fb093.css",
+    "main.js": "/static/js/main.235a60b3.js",
+    "static/media/logo.webp": "/static/media/logo.21b75726dd673a4371b7.webp",
     "static/media/BANNER.webp": "/static/media/BANNER.4ae41d442a4e1b65ff45.webp",
-    "static/media/hero.webp": "/static/media/hero.8acab2c13ce580264634.webp",
-    "static/media/logo300.png": "/static/media/logo300.a78dc244b4fdb4cc66df.png",
+    "static/media/heroDoradoPc.webp": "/static/media/heroDoradoPc.f1d682b957d5fc3cc4fb.webp",
+    "static/media/heroDoradoTelefono.webp": "/static/media/heroDoradoTelefono.68f6a6f08f4cd610792d.webp",
     "static/media/luis.jpeg": "/static/media/luis.02c6cb6d0a584f134419.jpeg",
     "static/media/logo500.webp": "/static/media/logo500.73e36712f34bd6a421eb.webp",
     "static/media/testimonio1.webp": "/static/media/testimonio1.384a5d3e1c335aff3966.webp",
     "static/media/testimonio2.webp": "/static/media/testimonio2.49703b696809188d9192.webp",
     "static/media/correos.webp": "/static/media/correos.42ba64d1140455115ea4.webp",
     "index.html": "/index.html",
-    "main.6da9984c.css.map": "/static/css/main.6da9984c.css.map",
-    "main.eebe6cde.js.map": "/static/js/main.eebe6cde.js.map"
+    "main.9e2fb093.css.map": "/static/css/main.9e2fb093.css.map",
+    "main.235a60b3.js.map": "/static/js/main.235a60b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6da9984c.css",
-    "static/js/main.eebe6cde.js"
+    "static/css/main.9e2fb093.css",
+    "static/js/main.235a60b3.js"
   ]
 }

@@ -1,11 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.9e2fb093.css",
-    "main.js": "/static/js/main.8a3ef533.js",
+    "main.js": "/static/js/main.a96666b6.js",
     "static/media/logo.webp": "/static/media/logo.21b75726dd673a4371b7.webp",
-    "static/media/BANNER.webp": "/static/media/BANNER.4ae41d442a4e1b65ff45.webp",
     "static/media/heroDoradoPc.webp": "/static/media/heroDoradoPc.f1d682b957d5fc3cc4fb.webp",
-    "static/media/heroDoradoTelefono.webp": "/static/media/heroDoradoTelefono.68f6a6f08f4cd610792d.webp",
     "static/media/luis.jpeg": "/static/media/luis.02c6cb6d0a584f134419.jpeg",
     "static/media/logo500.webp": "/static/media/logo500.73e36712f34bd6a421eb.webp",
     "static/media/testimonio1.webp": "/static/media/testimonio1.384a5d3e1c335aff3966.webp",
@@ -13,10 +11,10 @@
     "static/media/correos.webp": "/static/media/correos.42ba64d1140455115ea4.webp",
     "index.html": "/index.html",
     "main.9e2fb093.css.map": "/static/css/main.9e2fb093.css.map",
-    "main.8a3ef533.js.map": "/static/js/main.8a3ef533.js.map"
+    "main.a96666b6.js.map": "/static/js/main.a96666b6.js.map"
   },
   "entrypoints": [
     "static/css/main.9e2fb093.css",
-    "static/js/main.8a3ef533.js"
+    "static/js/main.a96666b6.js"
   ]
 }

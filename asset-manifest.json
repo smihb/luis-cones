@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e2fb093.css",
-    "main.js": "/static/js/main.e36aa6a7.js",
-    "static/media/logo.webp": "/static/media/logo.21b75726dd673a4371b7.webp",
-    "static/media/heroDoradoPc.webp": "/static/media/heroDoradoPc.f1d682b957d5fc3cc4fb.webp",
-    "static/media/luis.jpeg": "/static/media/luis.02c6cb6d0a584f134419.jpeg",
-    "static/media/logo500.webp": "/static/media/logo500.73e36712f34bd6a421eb.webp",
-    "static/media/testimonio1.webp": "/static/media/testimonio1.384a5d3e1c335aff3966.webp",
-    "static/media/testimonio2.webp": "/static/media/testimonio2.49703b696809188d9192.webp",
-    "static/media/correos.webp": "/static/media/correos.42ba64d1140455115ea4.webp",
-    "index.html": "/index.html",
-    "main.9e2fb093.css.map": "/static/css/main.9e2fb093.css.map",
-    "main.e36aa6a7.js.map": "/static/js/main.e36aa6a7.js.map"
+    "main.css": "/v2/static/css/main.9e2fb093.css",
+    "main.js": "/v2/static/js/main.161d837c.js",
+    "static/media/logo.webp": "/v2/static/media/logo.21b75726dd673a4371b7.webp",
+    "static/media/heroDoradoPc.webp": "/v2/static/media/heroDoradoPc.f1d682b957d5fc3cc4fb.webp",
+    "static/media/luis.jpeg": "/v2/static/media/luis.02c6cb6d0a584f134419.jpeg",
+    "static/media/logo500.webp": "/v2/static/media/logo500.73e36712f34bd6a421eb.webp",
+    "static/media/testimonio1.webp": "/v2/static/media/testimonio1.384a5d3e1c335aff3966.webp",
+    "static/media/testimonio2.webp": "/v2/static/media/testimonio2.49703b696809188d9192.webp",
+    "static/media/correos.webp": "/v2/static/media/correos.42ba64d1140455115ea4.webp",
+    "index.html": "/v2/index.html",
+    "main.9e2fb093.css.map": "/v2/static/css/main.9e2fb093.css.map",
+    "main.161d837c.js.map": "/v2/static/js/main.161d837c.js.map"
   },
   "entrypoints": [
     "static/css/main.9e2fb093.css",
-    "static/js/main.e36aa6a7.js"
+    "static/js/main.161d837c.js"
   ]
 }
